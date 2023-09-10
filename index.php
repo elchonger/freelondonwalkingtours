@@ -41,7 +41,7 @@
         </div>
     </div>
     <div class="container">
-        <div class="row with-margin">
+        <div class="row no-margin">
     <h2 class="heading hp">
                         <span>Tours</span></h2>
       </div>
