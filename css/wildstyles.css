@@ -153,17 +153,9 @@ span.hero-tag{
     color: #fff;
     text-align: left;
 }
-.slide-wrap{
-	background-color: #222;
-    padding-top: 120px;
-    padding-bottom: 30px;	
+p.intro-text{
+    margin-top: 20px;
 }
-.slidetitle{
-	background: #222;
-    padding: 5px 0 5px;
-    margin-bottom: 20px;
-	opacity: 0.8;
-	}
 			
 .jumbotron {
 	background-color: #fff;

@@ -37,7 +37,7 @@
 	</div>
     <div class="container">
         <div class="row with-margin">
-    <p>The only way to really see the amazing City of London is to walk it. Immerse yourself in this experience rich in history. See the places, learn about the people and discover more on one of our tours.</p>
+    <p class="intro-text">The only way to really see the amazing City of London is to walk it. Immerse yourself in this experience rich in history. See the places, learn about the people and discover more on one of our tours.</p>
         </div>
     </div>
     <div class="container">
