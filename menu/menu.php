@@ -7,7 +7,7 @@
    
          <div class="menu-left">
             
-            <a href="/index" class="navbar-brand"><img class="img-responsive" alt="Free London Walking Tours Logo" src="images/logo.png"></a>
+            <a href="/index" class="navbar-brand"><img class="img-responsive" alt="Free London Walking Tours Logo" src="../images/logo.png"></a>
         </div>      
           <div class="menu-middle"><span class="logo-text">Free London Walking Tours</span></div>
      
