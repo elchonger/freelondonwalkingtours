@@ -43,7 +43,7 @@
     <div class="container">
         <div class="row no-margin">
     <h2 class="heading hp">
-                        <span>Tours</span></h2>
+        <span>Tours</span></h2>
       </div>
     </div>
 	<?php include("includes/tours.php"); ?>
