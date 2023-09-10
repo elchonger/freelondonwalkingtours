@@ -95,12 +95,7 @@
              <h2>Meeting location</h2>
     <p>Monument Underground Station (Fish Street Hill exit). </p>
 							<p>Look for the green umbrella.</p>
-            
-                 </div>
-    </div>
-    <div class="container">
-        <div class="row with-margin">
-            <h2>Meeting point location</h2>
+ 
 	           <iframe src="https://www.google.com/maps/d/embed?mid=1mnWatbimhFFQ4U1f2aaCJzPHnUY" width="100%" height="480"></iframe>
     </div>
     </div>
