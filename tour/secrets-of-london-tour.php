@@ -18,7 +18,7 @@
 <div class="container-fluid">
     <div class="row no-row">
         <div class="bg-hero-image">
-	   <img class="hero" src="../images/secret-hidden-tour-large.jpg">
+	   <img class="hero" src="../images/secret-hidden-tour-large.webp" alt="A Victorian house. Discover the secrets of our famous city that are hiding in plain view.">
         	<div class="container">
                 <div class="row">
                     <div class=hero-post-title>

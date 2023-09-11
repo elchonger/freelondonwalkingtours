@@ -20,7 +20,7 @@
 <div class="container-fluid">
     <div class="row no-row">
         <div class="bg-hero-image">
-	   <img class="hero" src="../images/royal-walk-large.jpg">
+	   <img class="hero" src="../images/royal-walk-large.webp" alt="Buckingham Palace. See the Changing of the Guard and much more on our Royal London and Changing of the Guard Tour.">
         	<div class="container">
                 <div class="row">
                     <div class=hero-post-title>

@@ -18,7 +18,7 @@
 <div class="container-fluid">
     <div class="row no-row">
         <div class="bg-hero-image">
-	   <img class="hero" src="../images/ripper-tour-large.jpg">
+	   <img class="hero" src="../images/ripper-tour-large.webp" alt="A dimly lit street in East London, where Jack the Ripper was known to lurk.">
         	<div class="container">
                 <div class="row">
                     <div class=hero-post-title>

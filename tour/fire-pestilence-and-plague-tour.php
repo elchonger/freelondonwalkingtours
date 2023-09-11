@@ -18,7 +18,7 @@
 <div class="container-fluid">
     <div class="row no-row">
         <div class="bg-hero-image">
-	   <img class="hero" src="../images/fire-pestilence-plague-large.jpg">
+	   <img class="hero" src="../images/fire-pestilence-plague-large.webp" alt="The Monument, Pudding Lane, London. ">
         	<div class="container">
                 <div class="row">
                     <div class=hero-post-title>

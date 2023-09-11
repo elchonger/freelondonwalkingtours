@@ -19,7 +19,7 @@
 <div class="container-fluid">
     <div class="row no-row">
         <div class="bg-hero-image">
-	   <img class="hero" src="../images/Debauched-London-Bankside-Brothels-and-Beer-large.jpg">
+	   <img class="hero" src="../images/Debauched-London-Bankside-Brothels-and-Beer-large.webp" alt="Painting of Gin Lane by William Hogarth.">
         	<div class="container">
                 <div class="row">
                     <div class=hero-post-title>
