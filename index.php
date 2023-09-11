@@ -21,7 +21,7 @@
 <div class="container-fluid">
     <div class="row no-row">
         <div class="bg-hero-image bg-home">
-	   <img class="hero" src="images/homepage.jpg" alt="A large group of people enjoying one of our many historical walks of London">
+	   <img class="hero" src="images/homepage.webp" alt="A large group of people enjoying one of our many historical walks of London">
         	<div class="container">
                 <div class="row">
                     <div class="hero-post-title">
