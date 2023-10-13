@@ -10,7 +10,7 @@
 									<p>A fascinating walk around Royal London including the Changing of the Guard, taking in the splendour and glamour of our capital. See three royal palaces, Westminster Abbey and Big Ben on this fully guided tour.</p> 
 									
 									<p>10:30 Monday, Wednesday, Friday and Sunday.</p>
-									<p><a class="btn btn-default" href="/tour/royal-london-and-changing-of-the-guard-tour">View details »</a></p>
+									<p><a class="btn btn-default" href="/tour/royal-london-and-changing-of-the-guard-tour" aria-label="View details or the Royal London and Changing of the Guard tour">View details »</a></p>
 								</div>
 						</div>	
 	

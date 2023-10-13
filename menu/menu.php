@@ -12,7 +12,7 @@
           <div class="menu-middle"><span class="logo-text">Free London Walking Tours</span></div>
      
 		
-     	<div class="menu-right"><button type="button" data-toggle="collapse" data-target="#navbar-collapse-grid" class="navbar-toggle"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+     	<div class="menu-right"><button type="button" aria-label="Navigation menu" data-toggle="collapse" data-target="#navbar-collapse-grid" class="navbar-toggle"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
              <div id="navbar-collapse-grid" class="navbar-collapse collapse">
 			<ul class="nav navbar-nav">
 				<li class="dropdown yamm-fw">
