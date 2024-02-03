@@ -4,8 +4,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta name="description" content= "Autumn 1888, London’s East End a serial killer stalked the streets, murdering prostitutes and mutilating their bodies. His Name, Jack the Ripper." />
-<meta name="keywords" content="Free London Walking Tours, Free, UK, United Kingdom ,London, Walking, Tours, St Paul’s Cathedral, The Monument, Shakespeare’s Globe Theatre, The Tate Modern, Southwark Cathedral, The Clink Prison Museum, Millennium Bridge, The Shard, The Golden Hinde, Buckingham Palace, Houses Of Parliament, Big Ben, Westminster Abbey, Changing of the Guard, St James Palace, Trafalgar Square, Ghostly Goings On, Haunted Theatres, Eerie Pubs, Ghastly Ghouls, Sinister Tales, Spooky Stories, The Two Chairman pub, Trafalgar Square" />
+<meta name="description" content= "Our second Secrets of London tour starts and ends at Blackfriars station and will take in the most fascinating historical sites the City of London has to offer." />
+<meta name="keywords" content="Free London Walking Tours, Free, UK, United Kingdom ,London, Walking, Tours, The Old Bailey, St Barts Hospital, Smithfield Market, Marx Memorial Library, The Inns of Court, Dr Samuel Johnson’s House, Carter Lane, Cloth Fair, Ludgate Circus" />
 
 <title>Secrets of London Two, Revolution Rebellion and Religion Tour</title>
 <link href="../css/bootstrap.min.css" rel="stylesheet">
