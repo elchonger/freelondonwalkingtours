@@ -33,7 +33,7 @@
                         						<!-- Noscript content for added SEO -->
 <noscript><a href="https://www.eventbrite.co.uk/e/royal-london-changing-of-the-guard-tickets-185110168497" rel="noopener noreferrer" target="_blank"></noscript>
 <!-- You can customize this button any way you like -->
-<button class="btn btn-default" id="eventbrite-widget-modal-trigger-89553279269" type="button">Book Now</button>
+<button class="btn btn-default" id="eventbrite-widget-modal-trigger-185110168497" type="button">Book Now</button>
 <noscript></a>Buy Tickets on Eventbrite</noscript>
 
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
@@ -47,7 +47,7 @@
         widgetType: 'checkout',
         eventId: '89553279269',
         modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-89553279269',
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-185110168497',
         onOrderComplete: exampleCallback
     });
 </script>
