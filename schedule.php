@@ -54,7 +54,7 @@
 					<p><strong>Friday</strong></p>
 					<ul>
 						<li><a href="tour/royal-london-and-changing-of-the-guard-tour">Royal London Tour &amp; Changing of the Guard</a>  - 10:30 am</li>
-						<li><a href="tour/jack-the-ripper-tour">Jack the Ripper</a> - 7pm</li>
+						<li><a href="tour/southbank-tour">Southbank Tour</a> - 2:30pm</li>
 					</ul>
 					<p><strong>Saturday</strong></p>
 					<ul>
