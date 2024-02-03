@@ -54,12 +54,12 @@
 					<p><strong>Friday</strong></p>
 					<ul>
 						<li><a href="tour/royal-london-and-changing-of-the-guard-tour">Royal London Tour &amp; Changing of the Guard</a>  - 10:30 am</li>
-						<li><a href="tour/southbank-tour">Southbank Tour</a> - 2:30pm</li>
+						
 					</ul>
 					<p><strong>Saturday</strong></p>
 					<ul>
 						<!--<li><a href="tour/royal-london-and-changing-of-the-guard-tour">Royal London Tour &amp; Changing of the Guard</a>  - 10:30 am</li>-->
-						<li><a href="tour/debauched-london-bankside-brothels-and-beer-tour">Debauched London! Bankside, Brothels and Beer</a> - 2:30 pm</li>
+						<li><a href="tour/the-southbank-tour-bankside-brothels-and-beer">The Southbank Tour, Bankside Brothels and Beer</a> - 2:30pm</li>
 					</ul>
 					<p><strong>Sunday</strong></p>
 					<ul>
