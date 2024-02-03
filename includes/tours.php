@@ -25,12 +25,12 @@
 						</div>	
 	
 						<div class="col-md-4 card">
-							<img src="images/Debauched-London-Bankside-Brothels-and-Beer-small.jpg" alt="Debauched London! Bankside, Brothels and Beer Tour">
+							<img src="images/Debauched-London-Bankside-Brothels-and-Beer-small.jpg" alt="The Southbank Tour, Bankside Brothels and Beer">
 								<div class="hp-tour">	
-								  <h3>Debauched London! Bankside, Brothels and Beer</h3>
+								  <h3>The Southbank Tour, Bankside Brothels and Beer</h3>
 								  <p>Experience the real history of London, the people’s history! Southwark has long been associated with debauchery, but has recently enjoyed a resurgence in popularity. Join our expert guide on this unique tour of Bankside and discover its compelling history.</p>
 								  <p>Saturday 2:30pm.</p>
-								  <p><a class="btn btn-default" href="/tour/debauched-london-bankside-brothels-and-beer-tour" aria-label="View details of the Debauched London! Bankside, Brothels and Beer Tour">View details</a></p>
+								  <p><a class="btn btn-default" href="/tour/the-southbank-tour-bankside-brothels-and-beer" aria-label="View details of the The Southbank Tour, Bankside Brothels and Beer">View details</a></p>
 								</div>
 						</div>	
 			</div>
@@ -60,10 +60,10 @@
 						<div class="col-md-4 card">
 							<img src="images/ripper-tour-small.jpg" alt="Jack the Ripper Tour">
 								<div class="hp-tour">	
-								  <h3>Jack the Ripper!</h3>
+								  <h3>Secrets of London Two, Revolution Rebellion and Religion Tour</h3>
 								  <p>The autumn of 1888 will forever be known in London as the Autumn of Terror. In London’s East End a serial killer stalked the streets, murdering prostitutes and mutilating their bodies, his name, Jack the Ripper!</p>
 								  <p>Friday 7pm.</p>
-								  <p><a class="btn btn-default" href="/tour/jack-the-ripper-tour" aria-label="View details of the Jack the Ripper! tour">View details</a></p>
+								  <p><a class="btn btn-default" href="/tour/secrets-of-london-two-revolution-rebellion-and-religion-tour" aria-label="View details of the Secrets of London Two, Revolution Rebellion and Religion Tour">View details</a></p>
 								</div>
 						</div>	
 			</div>
