@@ -7,7 +7,7 @@
 <meta name="description" content= "Autumn 1888, London’s East End a serial killer stalked the streets, murdering prostitutes and mutilating their bodies. His Name, Jack the Ripper." />
 <meta name="keywords" content="Free London Walking Tours, Free, UK, United Kingdom ,London, Walking, Tours, St Paul’s Cathedral, The Monument, Shakespeare’s Globe Theatre, The Tate Modern, Southwark Cathedral, The Clink Prison Museum, Millennium Bridge, The Shard, The Golden Hinde, Buckingham Palace, Houses Of Parliament, Big Ben, Westminster Abbey, Changing of the Guard, St James Palace, Trafalgar Square, Ghostly Goings On, Haunted Theatres, Eerie Pubs, Ghastly Ghouls, Sinister Tales, Spooky Stories, The Two Chairman pub, Trafalgar Square" />
 
-<title>Jack the Ripper Tour</title>
+<title>Secrets of London Two, Revolution Rebellion and Religion</title>
 <link href="../css/bootstrap.min.css" rel="stylesheet">
 <link href="../css/yamm.css" rel="stylesheet">
 <link href="../css/wildstyles.css" rel="stylesheet">
@@ -22,7 +22,7 @@
         	<div class="container">
                 <div class="row">
                     <div class=hero-post-title>
-                         <h1 class="hero-title"><span>Jack the Ripper Tour</span></h1>
+                         <h1 class="hero-title"><span>Secrets of London Two, Revolution Rebellion and Religion</span></h1>
                         
                  
                     </div>
@@ -59,17 +59,32 @@
         <div class="row with-margin">
         	<h2>Tour Details</h2>
 							
-							<p>The autumn of 1888 will forever be known in London as the Autumn of Terror. <strong>In London’s East End a serial killer stalked the streets</strong>, murdering prostitutes and mutilating their bodies, his name, Jack the Ripper!</p>
-
-							<p>Much has been written on the subject over the years, and separating fact from fiction has often been difficult. Many suspects have been identified, some plausible, others bizarre, and many downright ridiculous. Many conspiracy theories have been put forward, and countless books, films and television programs have been produced on the subject, each naming more and more suspects. Were the Royal Family involved? Was it a Freemason conspiracy? <strong>With nearly 100 suspects put forward to date, just who was this mysteries predator?</strong></p>
-
-							<p>What do we actually know about Jack the Ripper? This tour will explore exactly that, we will sift through the evidence and eyewitness accounts; using the criminal, phycological and geographical profiling of the killer, to examine each suspect one by one.</p>
-
-							<p><strong>We will visit the murder sites and explain each gruesome killing</strong>, we will re-trace the killers footsteps, and explore what life was like for the poor, living in the slums of London’s East End.</p>
-
-							<p>Join our expert guide from Aldgate East station, <strong>in the heart of the Ripper's killing ground</strong>, cutting out any unnecessary walking.</p>
+							<p>Our second Secrets of London tour starts and ends at Blackfriars station and will take
+                                in the most fascinating historical sites the City of London has to offer.</p>
+<p>On this two-hour stroll, you will hear the stories of Kings, playwrights, judges, and
+    criminals and walk in their footsteps.</p>
+<p>The tour will see the site of the worlds first indoor theatre owned by Shakespere
+himself, the place where the reformation began, the oldest surviving hospital in the
+    world and see where some of London’s most gruesome executions took place.</p>
+<p>You will hear about the notorious bodysnatchers known as the ‘Ressurection Men.’
+You will pass through an origanal Tudor gatehouse, see where Lenin used to drink and
+    visit the home of Dr Samuel Johnson.</p>
+<p>An unmissable tour lead by a guide with 20 years of experience, this is a must for
+every history lover!</p>
 						
-							
+							<h2>Things you will see</h2>
+							<ul>
+							<li>The Old Bailey
+<li>St Barts Hospital</li>
+<li>Smithfield Market</li>
+<li>Marx Memorial Library</li>
+<li>The Inns of Court</li>
+<li>Dr Samuel Johnson’s House</li>
+<li>Carter Lane</li>
+<li>Cloth Fair</li>
+<li>Ludgate Circus</li>
+						
+							</ul>	
 							 
 						
 							
@@ -78,7 +93,8 @@
       <div class="container">
         <div class="row with-margin">
         <h2>Meeting time</h2>
-            <p>Every Friday at 7:00pm.</p>
+            <p>Blackfriars Underground station main exit, Every Friday at 14:30. </p>
+<p>The tour will end at the same point.</p>
             
                     </div>
     </div>

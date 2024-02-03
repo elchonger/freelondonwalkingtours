@@ -27,6 +27,7 @@
 										<li><a href="/tour/fire-pestilence-and-plague-tour">Fire, Pestilence and Plague Tour</a></li>
 										<li><a href="/tour/the-southbank-tour-bankside-brothels-and-beer">The Southbank Tour, Bankside Brothels and Beer</a></li>
                                         <li><a href="/tour/secrets-of-london-tour">Secrets of London Tour</a></li>
+                                        <li><a href="/tour/secrets-of-london-two-revolution-rebellion-and-religion-tour">Secrets of of London Two, Revolution Rebellion and Religion</a></li>
 									</ul>
                                                               						 
                                         </div>
