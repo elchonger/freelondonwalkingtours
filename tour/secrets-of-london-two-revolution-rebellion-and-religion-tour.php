@@ -7,7 +7,7 @@
 <meta name="description" content= "Autumn 1888, London’s East End a serial killer stalked the streets, murdering prostitutes and mutilating their bodies. His Name, Jack the Ripper." />
 <meta name="keywords" content="Free London Walking Tours, Free, UK, United Kingdom ,London, Walking, Tours, St Paul’s Cathedral, The Monument, Shakespeare’s Globe Theatre, The Tate Modern, Southwark Cathedral, The Clink Prison Museum, Millennium Bridge, The Shard, The Golden Hinde, Buckingham Palace, Houses Of Parliament, Big Ben, Westminster Abbey, Changing of the Guard, St James Palace, Trafalgar Square, Ghostly Goings On, Haunted Theatres, Eerie Pubs, Ghastly Ghouls, Sinister Tales, Spooky Stories, The Two Chairman pub, Trafalgar Square" />
 
-<title>Secrets of London Two, Revolution Rebellion and Religion</title>
+<title>Secrets of London Two, Revolution Rebellion and Religion Tour</title>
 <link href="../css/bootstrap.min.css" rel="stylesheet">
 <link href="../css/yamm.css" rel="stylesheet">
 <link href="../css/wildstyles.css" rel="stylesheet">
@@ -22,7 +22,7 @@
         	<div class="container">
                 <div class="row">
                     <div class=hero-post-title>
-                         <h1 class="hero-title"><span>Secrets of London Two, Revolution Rebellion and Religion</span></h1>
+                         <h1 class="hero-title"><span>Secrets of London Two, Revolution Rebellion and Religion Tour</span></h1>
                         
                  
                     </div>
