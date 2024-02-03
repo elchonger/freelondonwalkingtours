@@ -15,11 +15,11 @@
 					<div class="col-sm-3">
 						<p class="footsheading">TOURS</p>
 						<ul class="foots">
-						<li><a href="/tour/royal-london-and-changing-of-the-guard-tour">Royal London and Changing of the Guard Tour</a></li>
-                                                <li><a href="/tour/fire-pestilence-and-plague-tour">Fire, Pestilence and Plague Tour</a></li>
-						<li><a href="/tour/debauched-london-bankside-brothels-and-beer-tour">Debauched London! Bankside, Brothels and Beer Tour</a></li>
-                                                <li><a href="/tour/secrets-of-london-tour">Secrets of London Tour</a></li>
-                                                <li><a href="/tour/jack-the-ripper-tour">Jack the Ripper Tour!</a></li>
+					<li><a href="/tour/royal-london-and-changing-of-the-guard-tour">Royal London and Changing of the Guard Tour</a></li>
+										<li><a href="/tour/fire-pestilence-and-plague-tour">Fire, Pestilence and Plague Tour</a></li>
+										<li><a href="/tour/the-southbank-tour-bankside-brothels-and-beer">The Southbank Tour, Bankside Brothels and Beer</a></li>
+                                        <li><a href="/tour/secrets-of-london-tour">Secrets of London Tour</a></li>
+                                        <li><a href="/tour/secrets-of-london-two-revolution-rebellion-and-religion-tour">Secrets of of London Two, Revolution Rebellion and Religion Tour</a></li>
 						</ul>
 					</div>
 				<div class="col-sm-3">

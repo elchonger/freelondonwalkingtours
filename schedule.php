@@ -54,6 +54,7 @@
 					<p><strong>Friday</strong></p>
 					<ul>
 						<li><a href="tour/royal-london-and-changing-of-the-guard-tour">Royal London Tour &amp; Changing of the Guard</a>  - 10:30 am</li>
+                       <li><a href="/tour/secrets-of-london-two-revolution-rebellion-and-religion-tour">Secrets of of London Two, Revolution Rebellion and Religion Tour</a> - 2:30pm</li>
 						
 					</ul>
 					<p><strong>Saturday</strong></p>
