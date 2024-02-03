@@ -62,7 +62,7 @@
 								<div class="hp-tour">	
 								  <h3>Secrets of London Two, Revolution Rebellion and Religion Tour</h3>
 								  <p>The autumn of 1888 will forever be known in London as the Autumn of Terror. In London’s East End a serial killer stalked the streets, murdering prostitutes and mutilating their bodies, his name, Jack the Ripper!</p>
-								  <p>Friday 7pm.</p>
+								  <p>Friday at 14:30pm</p>
 								  <p><a class="btn btn-default" href="/tour/secrets-of-london-two-revolution-rebellion-and-religion-tour" aria-label="View details of the Secrets of London Two, Revolution Rebellion and Religion Tour">View details</a></p>
 								</div>
 						</div>	

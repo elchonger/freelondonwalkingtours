@@ -90,20 +90,14 @@ every history lover!</p>
 							
 					        </div>
     </div>
-      <div class="container">
-        <div class="row with-margin">
-        <h2>Meeting time</h2>
-            <p>Blackfriars Underground station main exit, Every Friday at 14:30. </p>
-<p>The tour will end at the same point.</p>
-            
-                    </div>
-    </div>
+     
     
     <div class="container">
         <div class="row with-margin">
-            <h2>Meeting location</h2>
-            <p>Aldgate East station exit 2 (Toynbee Hall Exit)</p>
-								<p>Look for the green umbrella!</p>
+             <h2>Meeting time</h2>
+            <p>Blackfriars Underground station main exit, Every Friday at 14:30. </p>
+<p>The tour will end at the same point.</p>
+            <p>Look for the green umbrella!</p>
  
 					<iframe src="https://www.google.com/maps/d/embed?mid=1nv9LRNVQyYjNSo1hNM7qFx01hlM" width="100%" height="480"></iframe>
     </div>
