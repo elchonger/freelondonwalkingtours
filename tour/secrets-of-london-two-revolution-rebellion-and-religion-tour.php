@@ -99,7 +99,7 @@ every history lover!</p>
 <p>The tour will end at the same point.</p>
             <p>Look for the green umbrella!</p>
  
-					<iframe src="https://www.google.com/maps/d/embed?mid=1nv9LRNVQyYjNSo1hNM7qFx01hlM" width="100%" height="480"></iframe>
+					<iframe src="https://www.google.com/maps/d/embed?mid=1cKikrE0E87WF2y846YvnJIevmPcXMTM&hl=en&ehbc=2E312F" width="100%" height="480"></iframe>
     </div>
     </div>
     
