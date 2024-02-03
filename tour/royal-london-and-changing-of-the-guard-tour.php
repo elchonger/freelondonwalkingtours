@@ -45,7 +45,7 @@
 
     window.EBWidgets.createWidget({
         widgetType: 'checkout',
-        eventId: '89553279269',
+        eventId: '185110168497',
         modal: true,
         modalTriggerElementId: 'eventbrite-widget-modal-trigger-185110168497',
         onOrderComplete: exampleCallback
