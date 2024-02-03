@@ -25,7 +25,7 @@
 										<li><a href="/all-tours">All Tours</a></li>
 										<li><a href="/tour/royal-london-and-changing-of-the-guard-tour">Royal London and Changing of the Guard Tour</a></li>
 										<li><a href="/tour/fire-pestilence-and-plague-tour">Fire, Pestilence and Plague Tour</a></li>
-										<li><a href="/tour/southbank-tour">Southbank Tour</a></li>
+										<li><a href="/tour/the-southbank-tour-bankside-brothels-and-beer">The Southbank Tour, Bankside Brothels and Beer</a></li>
                                         <li><a href="/tour/secrets-of-london-tour">Secrets of London Tour</a></li>
 									</ul>
                                                               						 
