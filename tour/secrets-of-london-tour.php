@@ -57,19 +57,34 @@
         <div class="row with-margin">
         	<h2>Tour Details</h2>
 							
-							<p>Experience a walking tour with a difference! On our secret hidden London tour you will encounter the more unusual stories regarding London's famous sights, discovering the secrets of our famous city that are hiding in plain view!</p>
-							<p>Hear stories of London's alleys, courts, churches and monuments that will intrigue and astound you, all with a local, expert guide.</p>
-							<p>Westminster has been the seat of power for 1000 years and has many fascinating stories, on this tour we will show you the things off the beaten path. Expect the unexpected, discover the mysteries and explore the secrets!</p>
-							<p>Learn about the age old ceremonies and pageantry, royal scandals and secrets, Churchill’s hidden wartime bunker and the famous history behind the collection of Royal animals!</p>
+							<p>This is a tour with a difference, join us and see the London that
+most tourists don’t get to witness.</p>
+							<p>Our original Secrets of London tour takes you on a stroll around
+Westminster, a city in it’s own right that has been the seat of
+Royal and political power for 1000 years.</p>
+							<p>Hear stories about lost Palaces, grand hotels &amp; devilish plots.
+Visit the places that hold secrets that most Londoners don’t even
+know about.</p>
+							<p>Learn what’s under our feet and what’s hidden in plain sight and
+meet the characters that have shaped British history forever.
+You will see where James Cook got his orders, Where a King
+was executed, Scotland Yard’s odd beginnings, The Hounds of
+the Baskavilles, the smelly secret behind the Embankment
+gardens, the bizarre life of the diarist Samuel Pepys, a haunted
+theatre and the oldest restaurant in London.</p>
+            <p>All this is told by a guide with over 20 years experience!</p>
 							
 							<h2>Things you will see</h2>
 							<ul>
-							<li>Hidden Treasures</li>
-							<li>Secret ruins</li>
-							<li>Obscure monuments</li>
-							<li>Inner and Middle Temple (when accessible)</li>
-							<li>Dr Johnson's House</li>
-							<li>Somerset House</li>
+							<li>Palace of Westminster
+<li>Westminster Abbey</li>
+<li>Whitehall Palace</li>
+<li>Benjamin Franklin’s House</li>
+<li>Admiralty</li>
+<li>Scotland Yard</li>
+<li>Victoria Enbankment</li>
+<li>Adelphi and Strand</li>
+C<li>Covent Garden</li>
 							</ul>
 				        </div>
     </div>
