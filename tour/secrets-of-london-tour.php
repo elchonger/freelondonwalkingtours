@@ -84,7 +84,7 @@ theatre and the oldest restaurant in London.</p>
 <li>Scotland Yard</li>
 <li>Victoria Enbankment</li>
 <li>Adelphi and Strand</li>
-C<li>Covent Garden</li>
+<li>Covent Garden</li>
 							</ul>
 				        </div>
     </div>
