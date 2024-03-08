@@ -1,8 +1,4 @@
-
-
- 
-    <?php include("../includes/alert.php"); ?>
-    <div class="navbar yamm navbar-fixed-top">
+<div class="navbar yamm navbar-fixed-top">
       <div class="container nav-menu">
    
          <div class="menu-left">
@@ -44,3 +40,5 @@
 	</div>
           </div>
 </div>     
+
+    <?php include("../includes/alert.php"); ?>
