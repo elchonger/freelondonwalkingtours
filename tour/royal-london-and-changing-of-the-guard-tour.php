@@ -16,7 +16,7 @@
     
 
 <body>
-          <?php include("includes/alert.php"); ?>
+          <?php include("../includes/alert.php"); ?>
 <?php include("../menu/menu.php"); ?>
 <div class="container-fluid">
     <div class="row no-row">
