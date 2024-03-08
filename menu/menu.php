@@ -1,7 +1,7 @@
 
 
  
-
+    <?php include("../includes/alert.php"); ?>
     <div class="navbar yamm navbar-fixed-top">
       <div class="container nav-menu">
    
