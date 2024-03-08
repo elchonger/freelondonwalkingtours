@@ -100,6 +100,14 @@ color: #036564;
 a:hover, a:focus {
 color: #036564;	
 }
+.alert-bg{
+    background: rgba(3, 54, 73, 1);
+}
+.alert{
+        background: rgba(3, 54, 73, 1);
+color: #fff;
+    margin-top: 150px;
+}
 
 .bg-hero-image {
     position: relative;
