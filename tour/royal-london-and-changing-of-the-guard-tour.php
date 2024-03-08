@@ -16,6 +16,7 @@
     
 
 <body>
+          <?php include("includes/alert.php"); ?>
 <?php include("../menu/menu.php"); ?>
 <div class="container-fluid">
     <div class="row no-row">
@@ -31,9 +32,9 @@
                     <div class="book-now">
                         
                         						<!-- Noscript content for added SEO -->
-<noscript><a href="https://www.eventbrite.co.uk/e/royal-london-changing-of-the-guard-tickets-185110168497" rel="noopener noreferrer" target="_blank"></noscript>
+<!--<noscript><a href="https://www.eventbrite.co.uk/e/royal-london-changing-of-the-guard-tickets-185110168497" rel="noopener noreferrer" target="_blank"></noscript>-->
 <!-- You can customize this button any way you like -->
-<button class="btn btn-default" id="eventbrite-widget-modal-trigger-185110168497" type="button">Book Now</button>
+<!--<button class="btn btn-default" id="eventbrite-widget-modal-trigger-185110168497" type="button">Book Now</button>
 <noscript></a>Buy Tickets on Eventbrite</noscript>
 
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
@@ -53,7 +54,7 @@
 </script>
                         
 
-		      </div>
+		      </div>-->
                     </div>
 	       </div>
      </div>
