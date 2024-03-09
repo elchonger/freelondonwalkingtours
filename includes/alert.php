@@ -1,9 +1,9 @@
 <div class="container-fluid alert-bg">
 			<div class="row no-row">
 				<div class="col-md-12 alert">
-                   <h1>Due to unforeseen circumstances, All tours have been canceled.</h1>
+                   <span class="alert-title">Due to unforeseen circumstances, All tours have been canceled.</span>
                     
-                    <h1>We apologise for any inconvenience.</h1>
+                    <span class="alert-title">We apologise for any inconvenience.</span>
                 </div>
     </div> 
 </div>   
