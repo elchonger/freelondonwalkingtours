@@ -14,7 +14,6 @@
 </head>
 
 <body>
-          <?php include("../includes/alert.php"); ?>
     <?php include("../menu/menu.php"); ?>
 <div class="container-fluid">
     <div class="row no-row">
@@ -33,7 +32,7 @@
 <!-- Noscript content for added SEO -->
 <!--<noscript><a href="https://www.eventbrite.co.uk/e/free-tour-jack-the-ripper-tickets-89556159885" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>-->
 <!-- You can customise this button any way you like -->
-<!-- <button class="btn btn-default" id="eventbrite-widget-modal-trigger-89556159885" type="button">Book now</button>
+ <button class="btn btn-default" id="eventbrite-widget-modal-trigger-89556159885" type="button">Book now</button>
 
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
 
@@ -50,7 +49,7 @@
         onOrderComplete: exampleCallback
     });
 </script>
-								      </div>-->
+								      </div>
                     </div>
 	       </div>
      </div>

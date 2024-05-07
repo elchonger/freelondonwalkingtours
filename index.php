@@ -14,7 +14,6 @@
 </head>
 
 <body>
-      <?php include("includes/alert.php"); ?>
 <?php include("menu/menu.php"); ?>
 
 
