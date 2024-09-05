@@ -2,6 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#033649">
+
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="description" content= "Experience a walking tour with a difference! On the secret tour you will hear the more unusual stories about London's famous sights. Discover the secrets of our famous city that are hiding in plain view!" />
