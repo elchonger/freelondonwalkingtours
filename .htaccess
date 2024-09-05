@@ -1,0 +1,9 @@
+RewriteRule ^index.php$ / [L,R=301]
+RewriteRule ^(.+)/index.php$ /$1/ [L,R=301]
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+
+ErrorDocument 404 /file-not-found
